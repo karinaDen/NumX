@@ -1,2 +1,2 @@
 # NumX
- AI for MATH. Visualizing and enhancing mathematical reasoning in large language models using sparse autoencoders and Gemma Scope
+Этот проект направлен на улучшение и понимание того, как большие языковые модели решают математические задачи. Используя разреженные автоэнкодеры с новейшей моделью Gemma 2B и Gemma Scope, мы стремимся повысить математические способности модели и визуализировать процесс её принятия решений, сравниваясь с моделями из AI Mathematical Olympiad.
